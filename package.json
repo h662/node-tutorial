@@ -6,6 +6,6 @@
   "author": "sh183694@gmail.com <sh183694@gamil.com>",
   "license": "MIT",
   "dependencies": {
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   }
 }
